@@ -1,0 +1,7 @@
+<launch>
+
+   <node pkg = "turtlesim" type = "turtlesim_node" name= "draw_circle" />
+
+   <node pkg = "assignment_2"  type = "circle.py" name= "circle" />
+
+</launch>

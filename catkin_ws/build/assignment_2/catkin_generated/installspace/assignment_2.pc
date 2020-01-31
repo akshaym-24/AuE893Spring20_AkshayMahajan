@@ -1,0 +1,8 @@
+prefix=/home/akshay/autonomy/AuE893Spring20_AkshayMahajan/catkin_ws/install
+
+Name: assignment_2
+Description: Description of assignment_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
